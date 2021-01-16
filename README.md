@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
@@ -25,7 +25,7 @@
 ## Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-mysql-FFDFBE?style=plastic&logo=mysql&logoColor=blue)
-![Sqlserver](https://img.shields.io/badge/-mysql-959595?style=plastic&logo=sqlServer&logoColor=gray)
+![Sqlserver](https://img.shields.io/badge/-Sqlserver-959595?style=plastic&logo=sqlServer&logoColor=gray)
 
 ## DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
