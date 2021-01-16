@@ -1,4 +1,4 @@
-##Hi there , i'm Javier Vela 👋😃⌨
+## <h2 style='text-align:center'>Hi there , i'm Javier Vela 👋😃⌨</h2>
 
 <img width=100% src='https://github.com/javier00vela/javier00vela/blob/main/github.png'/>
 
