@@ -1,8 +1,10 @@
-<img width=90% src='https://github.com/javier00vela/javier00vela/blob/main/github.png'/>
+##Hi there , i'm Javier Vela 👋😃⌨
+
+<img width=100% src='https://github.com/javier00vela/javier00vela/blob/main/github.png'/>
 
 
 
-## Habilidades Tecnologicas
+## 🖥  Tecnologies skills
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -29,6 +31,10 @@
 
 ## DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+
+
+## Contact me by 
+<a href="https://www.linkedin.com/in/javier00vela/">(https://img.shields.io/badge/-linkedin-117ADC?style=plastic&logo=linkedin&logoColor=white)</a>
 
 
 ![Profile views](https://gpvc.arturio.dev/javier00vela)
