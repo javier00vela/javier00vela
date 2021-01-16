@@ -2,6 +2,9 @@
 
 <img width=100% src='https://github.com/javier00vela/javier00vela/blob/main/github.png'/>
 
+<p>
+Developer specializing in fullstack development. Experienced with all stages of the development of computer systems, web, hybrid and progressive applications. Manages the analysis of proposed requirements in the computing emphasis, automation of processes and management of relational and non-relational databases. 
+</p>
 
 
 ## 🖥  Tecnologies skills
