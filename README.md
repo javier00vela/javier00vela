@@ -34,7 +34,7 @@
 
 
 ## Contact me by 
-<a href="https://www.linkedin.com/in/javier00vela/">(https://img.shields.io/badge/-linkedin-117ADC?style=plastic&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/javier00vela/">![Git](https://img.shields.io/badge/-linkedin-117ADC?style=plastic&logo=linkedin&logoColor=white)</a>
 
 
 ![Profile views](https://gpvc.arturio.dev/javier00vela)
