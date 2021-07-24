@@ -15,21 +15,23 @@ Developer specializing in fullstack development. Experienced with all stages of 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
+![Vue](https://img.shields.io/badge/-Vue-white?style=plastic&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-express-FF0000?style=plastic&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-1854A2?style=plastic&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/-laravel-FF8300?style=plastic&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/-java-FFFFFF?style=plastic&logo=java&logoColor=white)
 ![Express](https://img.shields.io/badge/-laravel-46FF00?style=plastic&logo=sprint&logoColor=white)
 
 
 ## Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-mysql-FFDFBE?style=plastic&logo=mysql&logoColor=blue)
+![Postgres](https://img.shields.io/badge/-Postgres-blue?style=plastic&logo=postgresql&logoColor=white)
 ![Sqlserver](https://img.shields.io/badge/-Sqlserver-959595?style=plastic&logo=sqlServer&logoColor=gray)
 
 ## DevOps
