@@ -7,6 +7,8 @@ Developer specializing in fullstack development. Experienced with all stages of 
 </p>
 
 
+![split](https://raw.githubusercontent.com/terkelg/prompts/master/media/split.png)
+
 ## 🖥  Tecnologies skills
 
 ## Frontend
