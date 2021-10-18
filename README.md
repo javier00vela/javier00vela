@@ -38,6 +38,7 @@ Developer specializing in fullstack development. Experienced with all stages of 
 
 ## DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-white?style=plastic&logo=docker&logoColor=blue)
 
 
 ## Contact me by 
