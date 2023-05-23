@@ -6,6 +6,7 @@
 Developer specializing in fullstack development. Experienced with all stages of the development of computer systems, web, hybrid and progressive applications. Manages the analysis of proposed requirements in the computing emphasis, automation of processes and management of relational and non-relational databases. 
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jvela00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/jvela00?trk=profile-badge">Javier Vela.</a></div>
 
 ![split](https://raw.githubusercontent.com/terkelg/prompts/master/media/split.png)
 
