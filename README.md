@@ -47,3 +47,5 @@ Developer specializing in fullstack development. Experienced with all stages of 
 
 
 ![Profile views](https://gpvc.arturio.dev/javier00vela)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
