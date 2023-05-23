@@ -5,6 +5,7 @@
 <p>
 Developer specializing in fullstack development. Experienced with all stages of the development of computer systems, web, hybrid and progressive applications. Manages the analysis of proposed requirements in the computing emphasis, automation of processes and management of relational and non-relational databases. 
 </p>
+
 ![split](https://raw.githubusercontent.com/terkelg/prompts/master/media/split.png)
 
 ## 🖥  Tecnologies skills
