@@ -1,14 +1,23 @@
-## <h2 style='text-align:center'>Hi there , i'm Javier Vela 👋😃⌨</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=3000&pause=500&color=F7F7F7&vCenter=true&width=435&lines=BIENVENIDOS%F0%9F%91%8B%F0%9F%98%83%E2%8C%A8)](https://git.io/typing-svg)
 
 <img width=100% src='https://github.com/javier00vela/javier00vela/blob/main/github.png'/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=3000&pause=500&color=91EBF7&vCenter=true&width=435&lines=SOY+JAVIER+VELA)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=3000&pause=500&color=368CF7&vCenter=true&width=435&lines=FULLSTACK+DEV)](https://git.io/typing-svg)
+
 <p>
-Developer specializing in fullstack development. Experienced with all stages of the development of computer systems, web, hybrid and progressive applications. Manages the analysis of proposed requirements in the computing emphasis, automation of processes and management of relational and non-relational databases. 
+Desarrollador de software con enfasís proactiva en el diseño, planeación e implementación de servicios REST API, aplicaciones web, hibrídas y progresivas.Cuento con experiencia trabajando con tecnologias backend,  frontend, bases de datos relacionales y no relacionales, pruebas unitarias e integradas, CI/CD , Devops y servicios cloud. 
 </p>
 
 ![split](https://raw.githubusercontent.com/terkelg/prompts/master/media/split.png)
 
-## 🖥  Tecnologies skills
+
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif)
+
+
+
+## 🖥  HABILIDADES TECNICAS:
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -42,6 +51,3 @@ Developer specializing in fullstack development. Experienced with all stages of 
 
 ## Contact me by 
 <a href="https://www.linkedin.com/in/javier00vela/">![Git](https://img.shields.io/badge/-linkedin-117ADC?style=plastic&logo=linkedin&logoColor=white)</a>
-
-
-![Profile views](https://gpvc.arturio.dev/javier00vela)
